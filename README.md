@@ -1,4 +1,4 @@
-## Hi, I'm Ronny! 
+## 👋 Hi, I'm Ronny! 
 👩🏻‍💻 Frontend Developer focused on Web3 <br/> 
 💭 Currently learning about UX (User Experience) on the web.
 
