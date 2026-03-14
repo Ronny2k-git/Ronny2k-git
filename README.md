@@ -4,7 +4,8 @@
 💭 Currently focusing on:
 - UX principles and usability for web applications.
 - Backend development with Node.js (REST APIs, authentication, database design).
-- AWS (EC2, S3, RDS, Lambda, and IAM fundamentals).
+- Technical SEO (performance, structured data, Core Web Vitals).
+- Web accessibility (WCAG, semantic HTML, ARIA).
 
 ##
 
