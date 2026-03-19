@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Ronny! 
-👩🏻‍💻 Fullstack Developer focused on Web applications <br/>
+👩🏻‍💻 Frontend Developer focused on Web applications <br/>
 
 💭 Currently focusing on:
 - UX principles and usability for web applications.
