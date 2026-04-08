@@ -2,10 +2,10 @@
 👩🏻‍💻 Frontend Developer focused on Web applications <br/>
 
 💭 Currently focusing on:
-- UX principles and usability for web applications.
-- Backend development with Node.js (REST APIs, authentication, database design).
-- Technical SEO (performance, structured data, Core Web Vitals).
-- Web accessibility (WCAG, semantic HTML, ARIA).
+- UX & usability for web applications
+- Backend with Node.js (APIs, auth, database design)
+- Performance & SEO (Core Web Vitals, structured data)
+- Accessibility (WCAG, semantic HTML, ARIA)
 
 ##
 
@@ -39,8 +39,6 @@
 
 ### ☁️ Cloud / DevOps / Tools
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
@@ -51,7 +49,7 @@
 
 ##
 
-### 📫 Contact Me
+### 📫 Feel free to connect on LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronny-edson-duarte-bb092b25a/)
 
