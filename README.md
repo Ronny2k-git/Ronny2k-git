@@ -14,6 +14,7 @@
 |---|---|
 | **Frontend** | TypeScript · React · Next.js · Vite · Tailwind CSS |
 | **Backend** | Node.js · PostgreSQL · MySQL · Prisma |
+| **Testing** | Vitest · React Testing Library |
 | **Infrastructure** | Docker · AWS · Figma |
 | **Web3** | Ethers.js · wagmi · viem |
 
