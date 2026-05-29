@@ -12,10 +12,10 @@
 
 | Area | Stack |
 |---|---|
-| **Frontend** | TypeScript · React · Next.js · Vite · Tailwind CSS · Tanstack | 
-| **Backend** | Node.js · Express · PostgreSQL · MySQL · Prisma |
-| **Testing** | Vitest · React Testing Library |
-| **Infrastructure** | Docker · AWS · Figma |
-| **Web3** | Ethers.js · Wagmi · Viem · RainbowKit |
+| Frontend | `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TanStack Query` |
+| Backend | `Node.js` · `Express` · `PostgreSQL` · `MySQL` · `Prisma` |
+| Testing | `Vitest` · `React Testing Library` |
+| Infrastructure | `Docker` · `AWS` · `Figma` |
+| Web3 | `Ethers.js` · `Wagmi` · `Viem` · `RainbowKit` |
 
 ---
