@@ -17,5 +17,6 @@
 | Testing | `Jest` · `Vitest` · `React Testing Library` |
 | Infrastructure | `Docker` · `AWS` · `Figma` |
 | Web3 | `Ethers.js` · `Wagmi` · `Viem` · `RainbowKit` |
+| AI Tools | `Claude` · `ChatGPT` · `GitHub Copilot` |
 
 ---
