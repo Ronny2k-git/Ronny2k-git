@@ -12,8 +12,8 @@
 
 | Area | Stack |
 |---|---|
-| Frontend | `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TanStack Query` |
-| Backend | `Node.js + Express` · `Python + FastAPI` · `PostgreSQL` · `MySQL` · `Prisma` |
+| Frontend | `Javascript ` · `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TanStack Query` |
+| Backend | `Node.js + Express` · `Python + FastAPI` · `PostgreSQL` · `MySQL` · `Prisma ORM` |
 | Testing | `Jest` · `Vitest` · `React Testing Library` |
 | Infrastructure | `Docker` · `AWS` · `Figma` |
 | Web3 | `Ethers.js` · `Wagmi` · `Viem` · `RainbowKit` |
