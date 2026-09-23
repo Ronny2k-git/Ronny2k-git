@@ -13,10 +13,10 @@
 | Area | Stack |
 |---|---|
 | Frontend | `Javascript ` · `TypeScript` · `React` · `Next.js` · `Vite` · `Tailwind CSS` · `TanStack Query` |
-| Backend | `Node.js + Express` · `Python + FastAPI` · `PostgreSQL` · `MySQL` · `Prisma ORM` |
+| Backend | `Node.js` · `Python` · `PostgreSQL` · `MySQL` · `Prisma ORM` |
 | Testing | `Jest` · `Vitest` · `React Testing Library` |
 | Infrastructure | `Docker` · `AWS` · `Figma` |
-| Web3 | `Ethers.js` · `Wagmi` · `Viem` · `RainbowKit` |
+| Web3 | `Wagmi` · `Viem` · `RainbowKit` |
 | AI Tools | `Claude` · `ChatGPT` · `GitHub Copilot` |
 
 ---
